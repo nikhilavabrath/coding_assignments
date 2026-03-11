@@ -1,0 +1,10 @@
+# Ignore JDK installation
+jdk-*/
+
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
